@@ -32,7 +32,6 @@ The website is optimized for:
 ## 📂 Project Structure
 
 ```
-Hair-Salon-Website/
 │── index.html
 │── style.css
 │── script.js
@@ -45,7 +44,7 @@ Hair-Salon-Website/
 
 Add your GitHub Pages link here after publishing:
 
-`https://yourusername.github.io/Hair-Salon-Website/`
+` https://visionwebdesign.github.io/Hair-Salon/`
 
 ## 📸 Preview
 
